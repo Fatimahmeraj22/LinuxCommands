@@ -1,0 +1,41 @@
+ADVANCED LINUX COMMANDS
+1.cal - To check calender
+2.sudo password - To change the password 
+3.whoami - To check user name
+4.sudo init0 - to shutdown
+5.sudo init6 - to restart
+6.whatis - to check discription  
+  whatls 
+7.pwd - to display your curret directory 
+8.cd - change directory
+9.cd~ - shortcut to get back into your home directory.
+10.cd.. - to go to parent directory one step back
+11.ls -a -- to show hidden files 
+   for example: .hiddentxt
+12.ls -lh -- to show the files and folders size/gb
+13.mkdir -p -- to create your files
+14.ls -l --
+15.ls - shows all files and folders 
+16.ls -/ --will show files being there without moving 
+17.touch - to create files.
+18.rm -rf - to delete all files and folders
+19.rm -i - to remove permission file
+20.cp - to copy files 
+   for example: mkdir dir2
+                cp hello.txt dir2
+                ls 
+                dir2/
+21.cp -r - to copy folder
+22.mv - to move one file to another file 
+23.echo"hello i am harry" >bye.txt - to make file and then to add context
+24.echo "bye guys" >bye.txt
+25.cat >harry.txt <<stop 
+26.tac - to see last lines
+27.history - giving space before making any folder or file it will be not counted in the histroy
+28.python3 -m http.server "serial number between 8000 to 9000"
+29.ps - to delete background process 
+30.ps -f 
+31.htop -we can check all ubuntu process and task managment 
+   to exit use ctrl c or ctrl d
+32.grep - used for searching and matching text patterns in files contained
+ 
